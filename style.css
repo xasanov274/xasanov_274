@@ -1,0 +1,157 @@
+.ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  gap: 58px;
+  text-shadow: 0px 5px 3px rgba(0, 0, 0, 0.6);
+  margin-bottom: 76px;
+  list-style: none;
+  text-decoration: none;
+  color: inherit;
+}
+.container > .nav > .ul > li > a {
+  list-style: none;
+  text-decoration: none;
+}
+.ul li a {
+  border-bottom: 1px solid white; /* yoki istalgan rang va kalibratsiya */
+}
+
+a {
+  list-style: none;
+  text-decoration: none;
+}
+ul li a {
+  border-bottom: 1px solid black; /* yoki istalgan rang va kalibratsiya */
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+  margin-right: 158px;
+  margin-left: 162px;
+}
+
+.img {
+  width: 209px;
+  height: 41px;
+}
+
+.div {
+  width: 550px;
+  height: 509px;
+  margin-right: 133px;
+  margin-left: 163px;
+}
+
+.doda {
+  display: flex;
+  justify-content: space-between;
+}
+.box1 {
+  box-shadow: 0px 8px 24px 0px #2fc63c;
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box2 {
+  box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box3 {
+  box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box4 {
+  box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box5 {
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box6 {
+  box-shadow: 0px 3px 8px 0px #f00;
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box7 {
+  box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box8 {
+  box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.66);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+
+.box9 {
+  box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+  width: 145px;
+  height: 145px;
+  background-color: white;
+}
+main{
+  margin-bottom: 200px;
+}
+/* .box {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  box-shadow: rgba(240, 46, 170, 0.4) -5px 5px,
+    rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px,
+    rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+    margin-top: 30px;
+}
+.border {
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    box-shadow:  blue 0px 0px 0px 2px inset, rgb(255, 255, 255) 10px -10px 0px -3px, rgb(31, 193, 27) 10px -10px, rgb(255, 255, 255) 20px -20px 0px -3px, rgb(255, 217, 19) 20px -20px, rgb(255, 255, 255) 30px -30px 0px -3px, rgb(255, 156, 85) 30px -30px, rgb(255, 255, 255) 40px -40px 0px -3px, rgb(255, 85, 85) 40px -40px;;
+    padding: 25px;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .boxing {
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;;
+    padding: 30px;
+  }
+  h1{
+    display: flex;
+    text-shadow: 16px 36px 6px rgba(226, 237, 14, 0.6);
+  }
+  h2{
+    text-shadow: 20px 40px 8px rgba(6, 242, 100, 0.6);
+  } */
+
+.koota-div {
+  display: flex;
+}
+.doda {
+  gap: 30px;
+  flex-wrap: wrap;
+  width: 500px;
+}
